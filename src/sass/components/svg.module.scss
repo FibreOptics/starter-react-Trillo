@@ -15,3 +15,9 @@
   margin-right: 2rem;
   fill: currentColor; //Parent element
 }
+.starIcon,
+.locationIcon {
+  width: 1.75rem;
+  height: 1.75rem;
+  fill: var(--color-primary);
+}
